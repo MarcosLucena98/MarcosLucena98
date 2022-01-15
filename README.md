@@ -7,18 +7,17 @@
 
 <div>
 <a href="https://github.com/MarcosLucena98">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MarcosLucena98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLucena98&layout=compact&langs_count=7&theme=dracula"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MarcosLucena98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLucena98&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
   
-### Ferramentas e Tecnologias
+### **Ferramentas e Tecnologias**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
 
 
-### Contatos:
+### **Contatos**
 
 <div>
 
