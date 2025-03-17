@@ -45,5 +45,3 @@ Você pode me encontrar nas redes sociais:
 
 ---
 
-### **Contribuições**
-![Snake animation](https://github.com/MarcosLucena98/MarcosLucena98/blob/output/github-contribution-grid-snake.svg)
