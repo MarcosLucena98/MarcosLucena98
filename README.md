@@ -14,20 +14,10 @@ Sou analista de dados com forte interesse em **risco de crédito, modelagem esta
 
 Gosto de estruturar projetos de forma profissional, pensando em **ETL, versionamento, validação de modelos e documentação**.
 
----
+## 📈 Atividade no GitHub
 
-## 📊 GitHub em números
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcosLucena98&theme=github-dark)
 
-<div align="center">
-  <a href="https://github.com/MarcosLucena98">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcosLucena98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/MarcosLucena98">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLucena98&layout=compact&langs_count=6&theme=dark"/>
-  </a>
-</div>
-
----
 
 ## 🧰 Tecnologias e Ferramentas
 
