@@ -18,6 +18,13 @@ Gosto de estruturar projetos de forma profissional, pensando em **ETL, versionam
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcosLucena98&theme=github-dark)
 
+## 🧠 Foco Técnico
+
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervised-green)
+![Credit Risk](https://img.shields.io/badge/Credit%20Risk-Modeling-important)
+![EDA](https://img.shields.io/badge/EDA-Statistics-orange)
+
 
 ## 🧰 Tecnologias e Ferramentas
 
@@ -25,8 +32,6 @@ Gosto de estruturar projetos de forma profissional, pensando em **ETL, versionam
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
-</div>
 
 **Dados & Bancos**
 
@@ -39,13 +44,6 @@ Gosto de estruturar projetos de forma profissional, pensando em **ETL, versionam
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" />
-</div>
-
-**Front básico (para dashboards e apresentações)**
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
 </div>
 
 ---
